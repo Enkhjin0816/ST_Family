@@ -9,6 +9,7 @@ const NameTag = styled.button`
 	justify-content: center;
 	align-items: center;
 	border: none;
+	cursor: pointer;
 `
 const Text = styled.text`
 	font-family: 'Dosis';
