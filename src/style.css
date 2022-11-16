@@ -1,0 +1,10 @@
+.swiper-button-prev,
+.swiper-button-next {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+.swiper-button-prev,
+.swiper-button-next {
+	display: none;
+}
